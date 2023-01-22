@@ -15,8 +15,18 @@ const collegenames = [
     "AISECT University",
     "All Saints' College of Technology",
     "Brightlands School of Business and Management",
-    "Chameli Devi Institute of Technology",
-    "Dr.Hari Singh Gour University"
+    "Dr.Hari Singh Gour University",
+    "Indian Institute of Technology(IIT) Kanpur",
+    "Indian Institute of Technology(IIT) BHU, Varanasi",
+    "Indian Institute of Technology(IIT) Roorkee",
+    "Aligarh Muslim University(AMU), Aligarh",
+    "Motilal Nehru National Institute of Technology(MNNIT), Allahabad",
+    "Indian Institute of Information Technology, Allahabad",
+    "Harcourt Butler Technical University(HBTU), Kanpur",
+    "Dr.A.P.J.Abdul Kalam Technical University(AKTU), Lucknow",
+    "Uttar Pradesh Technical University(UPTU), Lucknow",
+    "Banaras Hindu University(BHU), Varanasi",
+    "Institute of Engineering and Technology(IET), Lucknow",
 ]
 
 export default collegenames;
